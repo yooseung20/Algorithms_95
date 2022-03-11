@@ -9,3 +9,8 @@
  4. 가장 흔한 단어 (MostCommonWord)
  5. 그룹 애너그램 (GroupAnagram)
  6. 가장 긴 팰린드롬 부분 문자열
+ 
+ 
+ - Array : 배열
+ 7. 두 수의 합(TwoSum)
+ 8. 빗물 트래핑(TrappingRainWater)
